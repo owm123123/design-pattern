@@ -1,4 +1,4 @@
-package org.example.creational.builder.hero;
+package org.example.creational.builder.hero.single;
 
 public class SingleHero {
     private String hair;
