@@ -1,4 +1,4 @@
-package org.example.micropattern.repository.eneity.eneityB;
+package org.example.micropattern.eneity.eneityB;
 
 public class B1Entity {
 }
